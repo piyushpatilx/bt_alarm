@@ -4,6 +4,8 @@ An app that raises an alarm (default alarm), when a Bluetooth device is disconne
 
 
 Requires a Bluetooth enabled device eg. Bluetooth Speaker.
+
+
 Requires Bluetooth permission.
 
 
